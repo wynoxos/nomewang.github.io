@@ -4,7 +4,7 @@ window.portfolioData = {
         personal: {
             name: "王玥",
             title: "", // 原值："AI 工程师 / 研究者"（如需加回，恢复此字符串即可）
-            bio: "当前博士生在读，研究兴趣领域为具身智能。我硕士毕业于上海交通大学人工智能专业。曾在华为担任工程师，主要从事基于昇腾硬件的推理引擎开发和模型性能调优工作。目前发表了多篇顶级AI会议论文，累计被引用达506次（h-index: 5）。我致力于探索和设计更高效、更具硬件亲和性且泛化能力卓越的基础模型与智能体系统。",
+            bio: "当前博士生在读，研究兴趣领域为具身智能。我硕士毕业于上海交通大学人工智能专业。曾在华为担任工程师，主要从事基于昇腾硬件的推理引擎开发和模型性能调优工作。目前发表了多篇顶级AI会议论文，累计被引用达545次（h-index: 5）。我致力于探索和设计更高效、更具硬件亲和性且泛化能力卓越的基础模型与智能体系统。",
             avatar: "images/avatar.jpg",
             email: "nomewang@outlook.com",
             github: "https://github.com/nomewang",
@@ -128,7 +128,7 @@ window.portfolioData = {
         personal: {
             name: "Wang Yue",
             title: "", // Original: "AI Engineer / Researcher" (restore this string to bring it back)
-            bio: "I am currently a Ph.D. student, with a research interest in Embodied AI. I received my Master's degree in Artificial Intelligence from Shanghai Jiao Tong University. I previously worked as an Engineer at Huawei, focusing on inference engine development and model performance tuning based on Ascend hardware. I have published several top-tier AI conference papers, with a total of 506 citations (h-index: 5). I am dedicated to exploring and designing foundation models and agent systems that are more efficient, hardware-friendly, and highly generalizable.",
+            bio: "I am currently a Ph.D. student, with a research interest in Embodied AI. I received my Master's degree in Artificial Intelligence from Shanghai Jiao Tong University. I previously worked as an Engineer at Huawei, focusing on inference engine development and model performance tuning based on Ascend hardware. I have published several top-tier AI conference papers, with a total of 545 citations (h-index: 5). I am dedicated to exploring and designing foundation models and agent systems that are more efficient, hardware-friendly, and highly generalizable.",
             avatar: "images/avatar.jpg",
             email: "nomewang@outlook.com",
             github: "https://github.com/nomewang",
